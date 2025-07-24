@@ -1,13 +1,6 @@
 # 🚀 YOC.ai Website
 
 Welcome to our YOC.ai website.
-
----
-
-## 🌐 Live Site
-
-🔗 [View Live Portfolio](https://KeshavDeploys.github.io/Portfolio)
-
 ---
 
 ## 📸 Screenshots
